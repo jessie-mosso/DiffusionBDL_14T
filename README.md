@@ -14,7 +14,7 @@ Jessie Mosso, NYU, 11/02/2026
 
 is used to process STEAM/STELASER data and includes adjusted FID-A functions. 
 
-Raw data can be found here:
+Raw data can be found here: https://doi.org/10.5281/zenodo.23906192
 
 > 2_LCModel_quantification
  
