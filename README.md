@@ -12,13 +12,13 @@ Jessie Mosso, NYU, 11/02/2026
 ## Files description: 
 > 1_Processing
 
-is used to process STEAM/STELASER data and includes sub functions needed. 
+is used to process STEAM/STELASER data and includes adjusted FID-A functions. 
 
 Raw data can be found here:
 
 > 2_LCModel_quantification
  
-contains the control files and basis sets for LCModel quantification of STEAM/STE-LASER. The 4 excel tables contain summaries. 
+contains the control files and basis sets for LCModel quantification of STEAM/STELASER. The 4 excel tables contain summaries. 
 
 
 > 3_Diffusion_fitting
